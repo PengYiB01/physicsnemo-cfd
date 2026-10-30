@@ -1,2 +1,3 @@
 # physicsnemo-cfd
-A NVIDIA Modulus
+Solve heat transfer and fluid flow problems using physicsnemo.
+
